@@ -1,0 +1,22 @@
+code{
+    border: none;
+    background-color: transparent !important;
+    border-bottom: 1px solid rgb(6, 243, 46) !important;
+}
+
+#blue{
+    color:rgb(0, 158, 250)
+}
+#green{
+    color: green
+}
+#orange{
+    color: orange;
+}
+#red{
+    color:red
+}
+#yellow{
+    color: rgb(207, 124, 16);
+}
+
