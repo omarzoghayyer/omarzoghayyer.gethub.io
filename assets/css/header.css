@@ -32,3 +32,6 @@ code{
 strong{
     color: rgb(28, 247, 39);
 }
+img{
+    border-radius: 1rem;
+}
